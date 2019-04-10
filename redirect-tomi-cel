@@ -1,0 +1,6 @@
+<Response>
+    <Record startOnDialAnswer="true" redirect="false" />
+    <Dial callerId="Sirena">
+        <Number>+5493388463334</Number> 
+    </Dial> 
+</Response>
